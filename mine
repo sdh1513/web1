@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>WEB1 - Welcome</title>
+<meta charset="utf-8">
+<h1>WEB<strong></h1>
+<body>
+  <ol>
+    <Li><u>HTML</u><strong></Li>
+    <Li><u>CSS</u><strong></Li>
+    <Li><u>javascript</u><strong></Li>
+  </ol><br>
+  <h2>WEB</h2><br>
+  <style="px=13">The World Wide Web (abbreviated WWW or the Web) is an information space where documents and other web resources are identified by<br> Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet.[1] English scientist Tim Berners-Lee<br> invented the World Wide Web in 1989. He wrote the first web browser computer program in 1990 while employed at CERN in Switzerland.[2][3]<br> The Web browser was released outside of CERN in 1991, first to other research institutions starting in January 1991 and to the general public on<br> the Internet in August 1991.
+</body>
